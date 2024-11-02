@@ -10,7 +10,7 @@ Welcome to a simple **DiscordBot For DDoS Attack**! This tool will allow you to 
 
 ## Usage 📖
 1. Place your tokens , user , pass, clientid in config.json
-2. Run the analyzer:
+2. Run the Bot:
    ```bash
    node app.mjs
    ```
